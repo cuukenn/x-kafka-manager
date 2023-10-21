@@ -1,9 +1,10 @@
 {
-  "recommendations": [
-    "twxs.cmake",
-    "JackBoosY.vcpkg-cmake-tools",
-    "ms-vscode.cpptools",
-    "ms-vscode.cpptools-extension-pack",
-    "redhat.vscode-xml"
-  ]
+    "recommendations": [
+        "twxs.cmake",
+        "JackBoosY.vcpkg-cmake-tools",
+        "ms-vscode.cpptools",
+        "ms-vscode.cpptools-extension-pack",
+        "redhat.vscode-xml",
+        "ThomasVogelpohl.vsc-qml-snippets"
+    ]
 }
